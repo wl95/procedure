@@ -1,0 +1,9 @@
+label{
+    height: initial !important;
+    margin-top: 5px;
+    padding-left: 17px;
+}
+
+.ant-form-item-required:before{
+    display: none;
+}

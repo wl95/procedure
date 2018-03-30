@@ -1,0 +1,16 @@
+[{
+    "id":1,
+    "color": "red",
+    "text": "别戳我",
+    "content":"啊哈哈哈"
+}, {
+    "id":2,    
+    "color": "orange",
+    "text": "别动我",
+    "content":"哇哈哈哈"    
+}, {
+    "id":3,    
+    "color": "blue",
+    "text": "别点我",
+    "content":"嘻哈哈哈"     
+}]
